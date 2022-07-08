@@ -6,7 +6,7 @@ https://keybase.io/rooted
 - Professional backend software engineer specializing in NodeJS
 - Hobbies include Piano, Art, and Movies
 - Programmed JS and Node since 2016
-
+<!--
 # 🧠 𝙺𝚗𝚘𝚠𝚗 (𝚘𝚛 𝚞𝚜𝚎𝚍) 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <small>(𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚋𝚞𝚝 𝚗𝚘𝚝 𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝚝𝚘)</small>
 <p>
@@ -55,8 +55,9 @@ https://keybase.io/rooted
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" />
 </p>
-<a href="https://github.com/GagePielsticker/javascript-library-list">𝙵𝚊𝚖𝚒𝚕𝚒𝚊𝚛 𝙹𝚂 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜</a>
 
+<a href="https://github.com/GagePielsticker/javascript-library-list">𝙵𝚊𝚖𝚒𝚕𝚒𝚊𝚛 𝙹𝚂 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜</a>
+-->
 # ❓ What happened to my commits and repos?
 Recently I performed a massive purge of many of my old repos as I felt they did not reflect the standards and code quality I now hope to achieve. I will slowly be replacing much of them with new modern stuff :).
 
