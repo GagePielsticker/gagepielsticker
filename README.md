@@ -3,9 +3,9 @@
 https://keybase.io/rooted
 
 # 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Professional backend software engineer specializing in NodeJS
+- Backend Software Engineer (Specializing in AWS)
 - Hobbies include Piano, Art, and Movies
-- Programmed JS and NodeJS since 2016
+- Programming since 2016
 <!--
 # 🧠 𝙺𝚗𝚘𝚠𝚗 (𝚘𝚛 𝚞𝚜𝚎𝚍) 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <small>(𝚒𝚗𝚌𝚕𝚞𝚍𝚒𝚗𝚐 𝚋𝚞𝚝 𝚗𝚘𝚝 𝚕𝚒𝚖𝚒𝚝𝚎𝚍 𝚝𝚘)</small>
