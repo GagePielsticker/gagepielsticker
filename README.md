@@ -7,7 +7,7 @@ https://keybase.io/rooted
 - Hobbiest developer for 6+ years, Professionally 2+ years
 - Programming Languages Include: NodeJS, Python, Typescript, Java, and more
 - Certifications: AWS Cloud Practitioner
-- Pianist & Movie ner
+- Pianist & Movie nerd
 
 
 ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
