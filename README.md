@@ -2,8 +2,13 @@
 <img src="https://profile-counter.glitch.me/gagepielsticker/count.svg" />
 https://keybase.io/rooted
 
-# 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Programming nodejs since 2016
+# 👩‍💻 About Me
+- Professionally engineering AWS based enterprise software & services for 1.5 years
+- Hobbiest developer for 6+ years, Professionally 2+ years
+- Programming Languages Include: NodeJS, Python, Typescript, Java, and more
+- Certifications: AWS Cloud Practitioner
+- Pianist & Movie ner
+
 
 ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
 
