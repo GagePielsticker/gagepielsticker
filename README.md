@@ -27,7 +27,7 @@ https://keybase.io/rooted
 ![GitHub Repo stars](https://img.shields.io/github/stars/gagepielsticker/AWS-Auth-Template)
 ![Known Vulnerabilities](https://snyk.io/test/github/gagepielsticker/AWS-Auth-Template/badge.svg) 
 
-- [AWS GraphQL Tempalte](https://github.com/GagePielsticker/AWS-GraphQL-Template)
+- [AWS GraphQL Template](https://github.com/GagePielsticker/AWS-GraphQL-Template)
   
 ![GitHub Repo stars](https://img.shields.io/github/stars/gagepielsticker/AWS-GraphQL-Template)
 ![Known Vulnerabilities](https://snyk.io/test/github/gagepielsticker/AWS-GraphQL-Template/badge.svg) 
