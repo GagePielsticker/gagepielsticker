@@ -9,6 +9,15 @@ https://keybase.io/rooted
 - Certifications: AWS Cloud Practitioner
 - Pianist & Movie nerd
 
+# What have I worked on recently?
+
+### AWS Templates
+> I have a habbit of constantly starting and working on MANY new projects all the time. In doing so I learned some valuable lessons. One of them being the value of having a solid starting foundation to build a robust system ontop of. Looking around I had trouble finding simple boilerplates for relatively easy but monotonous things. Enter a bunch of AWS templates I created to support others with this :)
+
+- [AWS REST Api Template](https://github.com/GagePielsticker/AWS-Api-Template)
+- [AWS REST JWT Template](https://github.com/GagePielsticker/AWS-Auth-Template)
+- [AWS GraphQL Tempalte](https://github.com/GagePielsticker/AWS-GraphQL-Template)
+
 # Where did all the repo's & commits go?
 I did a large purge of old repositories (**~30+**) due to either a lack in quality, no longer being maintained/working, and it not reflecting standards I hold today. Everything that is no longer maintained but I want to keep for sentimental sake will be archived to indicate as such :)
 
