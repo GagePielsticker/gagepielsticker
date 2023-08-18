@@ -32,7 +32,7 @@ https://keybase.io/rooted
 ![GitHub Repo stars](https://img.shields.io/github/stars/gagepielsticker/AWS-GraphQL-Template)
 ![Known Vulnerabilities](https://snyk.io/test/github/gagepielsticker/AWS-GraphQL-Template/badge.svg) 
 
-### Other Projects
+### Other Recent Projects
 - [MultiplayerPianoJS](https://github.com/GagePielsticker/MultiplayerPianoJS)
 
 # Where did all the repo's & commits go?
