@@ -2,6 +2,7 @@
 <img src="https://profile-counter.glitch.me/gagepielsticker/count.svg" />
 
 https://keybase.io/rooted
+
 https://pielsticker.cloud
 
 # 👩‍💻 About Me
