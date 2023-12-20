@@ -3,8 +3,6 @@
 
 https://keybase.io/rooted
 
-https://pielsticker.cloud
-
 # 👩‍💻 About Me
 
 - Professionally engineering AWS based enterprise software & services for 1.5 years
