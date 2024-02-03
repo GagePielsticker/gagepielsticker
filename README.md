@@ -14,7 +14,7 @@ https://keybase.io/rooted
 <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80px" />
 
 # What have I worked on recently?
-
+ 
 ### AWS Templates
 > I have a habbit of constantly starting and working on MANY new projects all the time. In doing so I learned some valuable lessons. One of them being the value of having a solid starting foundation to build a robust system ontop of. Looking around I had trouble finding simple boilerplates for relatively easy but monotonous things. Enter a bunch of AWS templates I created to support others with this :)
 
