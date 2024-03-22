@@ -34,6 +34,7 @@ https://keybase.io/rooted
 ![Known Vulnerabilities](https://snyk.io/test/github/gagepielsticker/AWS-GraphQL-Template/badge.svg) 
 
 - [AWS Webhook Template](https://github.com/GagePielsticker/AWS-Webhook-Template)
+  
 ![GitHub Repo stars](https://img.shields.io/github/stars/gagepielsticker/AWS-Webhook-Template)
 
 ### Other Recent Projects
