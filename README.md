@@ -1,11 +1,11 @@
-# 👋 Hello world! My name is Gage Pielsticker.
+# 👋 Hello world! My name is Gage.
 <img src="https://profile-counter.glitch.me/gagepielsticker/count.svg" />
 
 https://keybase.io/rooted
 
 # 👩‍💻 About Me
 
-- Professionally engineering AWS based enterprise software
+- Professionally engineering AWS based software
 - Hobbiest developer for 8+ years, Professionally 4 years
 - Programming Languages Include: NodeJS, Python, Typescript, Java, and more
 - Pianist & Movie nerd
