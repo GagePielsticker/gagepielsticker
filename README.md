@@ -33,6 +33,9 @@ https://keybase.io/rooted
 ![GitHub Repo stars](https://img.shields.io/github/stars/gagepielsticker/AWS-GraphQL-Template)
 ![Known Vulnerabilities](https://snyk.io/test/github/gagepielsticker/AWS-GraphQL-Template/badge.svg) 
 
+- [AWS Webhook Template](https://github.com/GagePielsticker/AWS-Webhook-Template)
+![GitHub Repo stars](https://img.shields.io/github/stars/gagepielsticker/AWS-Webhook-Template)
+
 ### Other Recent Projects
 - [MultiplayerPianoJS](https://github.com/GagePielsticker/MultiplayerPianoJS)
 
