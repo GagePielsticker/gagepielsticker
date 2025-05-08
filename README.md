@@ -6,7 +6,7 @@ https://keybase.io/rooted
 # 👩‍💻 About Me
 
 - Professionally engineering AWS based software & Backend Systems.
-- Hobbiest developer for 9+ years, Professionally 4 years.
+- Hobbiest developer for 11+ years, Professionally 5+ years.
 - Programming Languages Include: NodeJS, Python, Typescript, Java, and more
 - Pianist & Movie nerd
 
