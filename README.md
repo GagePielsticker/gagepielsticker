@@ -15,12 +15,12 @@ Keybase.IO             |  LinkedIn | Email Me
 - **IaC**: SST, CDK, SAM, Terraform, and Raw Cloudformation (yes i'm a that crazy).
 - **Hobbies**: Piano, 2d & 3d Art, Movies, Guitar (poorly), and my dog :)
 
-# Active Certifications <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/330px-Amazon_Web_Services_Logo.svg.png" width=40> </img>
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/330px-Amazon_Web_Services_Logo.svg.png" width=40> </img> Active Certifications
 <div align="center">
   <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80px" />
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80px" />
 </div>
 
-# My Programming Journey
+# 🚀 My Programming Journey
 <img src="https://github.com/GagePielsticker/gagepielsticker/blob/main/timeline.png?raw=true" width=100%>
 <small>* This is not all inclusive, just general milestones :)</small>
