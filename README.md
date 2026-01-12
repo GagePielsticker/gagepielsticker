@@ -1,4 +1,4 @@
-<img src="https://github.com/GagePielsticker/gagepielsticker/blob/main/banner.png?raw=true" />
+<img src="https://github.com/GagePielsticker/gagepielsticker/blob/main/banner2.png?raw=true" />
 
 <div align="center">
 
