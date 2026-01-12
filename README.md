@@ -1,21 +1,27 @@
-# 👋 Hello world! My name is Gage.
-<img src="https://github.com/gagepielsticker/gagepielsticker/banner.png" />
+<img src="https://github.com/GagePielsticker/gagepielsticker/blob/main/banner.png?raw=true" />
 
-https://keybase.io/rooted
+<div style="display: flex;">
+<a style="padding-right:1em;" href="https://keybase.io/rooted"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/330px-Keybase_logo_official.svg.png" width=60 /></a>
 
-# 👩‍💻 About Me
+<a style="padding-right:1em;" href="https://www.linkedin.com/in/james-pielsticker/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055" width=60></a>
 
+<a style="padding-right:1em;" href="mailto:jamesgpielsticker@gmail.com"><img src="https://cdn-icons-png.flaticon.com/256/10505/10505945.png" width=60></a>
+
+</div>
+
+# 🗣️ A Little About Me
 - Professionally engineering AWS based software & Backend Systems.
-- Hobbiest developer for 11+ years, Professionally 5+ years.
-- Programming Languages Include: NodeJS, Python, Typescript, Java, and more
-- Pianist & Movie nerd
+- Hobbiest engineer for 12+ years, Professionally 6+ years.
+- **Programming Languages**: NodeJS, Python, Typescript, and Java.
+- **IaC**: SST, CDK, SAM, Terraform, and Raw Cloudformation (yes i'm a that crazy).
+- **Hobbies**: Piano, 2d & 3d Art, Movies, Guitar (poorly), and my dog :)
 
-# Certifications
-<div>
+# Active Certifications <img src="https://images.seeklogo.com/logo-png/31/2/amazon-web-services-aws-logo-png_seeklogo-319188.png" width=40 style="position:absolute; padding-top:2px; padding-left:5px;"> </img>
+<div style="width:100%;justify-content: center;display:flex;">
   <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="80px" />
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="80px" />
 </div>
 
-# Where did all the repo's & commits go?
-I did a large purge of old repositories (**~30+**) due to either a lack in quality, no longer being maintained/working, and it not reflecting standards I hold today. Everything that is no longer maintained but I want to keep for sentimental sake will be archived to indicate as such :)
-
+# My Programming Journey
+<img src="https://github.com/GagePielsticker/gagepielsticker/blob/main/timeline.png?raw=true" width=100%>
+<small>* This is not all inclusive, just general milestones :)</small>
