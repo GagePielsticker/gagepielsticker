@@ -1,5 +1,5 @@
 # 👋 Hello world! My name is Gage.
-<img src="https://profile-counter.glitch.me/gagepielsticker/count.svg" />
+<img src="https://github.com/gagepielsticker/gagepielsticker/banner.png" />
 
 https://keybase.io/rooted
 
