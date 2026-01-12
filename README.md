@@ -23,4 +23,4 @@ Keybase.IO             |  LinkedIn | Email Me
 
 # 🚀 My Programming Journey
 <img src="https://github.com/GagePielsticker/gagepielsticker/blob/main/timeline.png?raw=true" width=100%>
-<small>* This is not all inclusive, just general milestones :)</small>
+<small>* This is not all inclusive by any means, just some fun milestones :)</small>
