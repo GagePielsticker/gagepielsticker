@@ -24,3 +24,6 @@ Keybase.IO             |  LinkedIn | Email Me
 # 🚀 My Programming Journey
 <img src="https://github.com/GagePielsticker/gagepielsticker/blob/main/timeline.png?raw=true" width=100%>
 <small>* This is not all inclusive by any means, just some fun milestones :)</small>
+
+# !! IMPORTANT NOTICE !!
+You may see i have all my repositories archived. I do this as a housecleaning item to indicate I am not working on them or maintaining them, they likely still function perfectly fine however so keep an eye on the last commit date :) 
