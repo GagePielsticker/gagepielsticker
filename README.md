@@ -9,6 +9,7 @@ Keybase.IO             |  LinkedIn | Email Me
 </div>
 
 # 🗣️ A Little About Me
+- I love making boilerplates because I hate re-doing things constantly for new projects. 
 - Professionally engineering AWS based software & Backend Systems.
 - Hobbiest engineer for 12+ years, Professionally 6+ years.
 - **Programming Languages**: NodeJS, Python, Typescript, and Java.
